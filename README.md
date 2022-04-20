@@ -1,8 +1,8 @@
 ### Hi there ! I'm Lívia, i started programming not long ago, but I'm already completely immersed and in love with this environment.
 
 
-- 🔭 I'm currently working on BotCity's backoffice, but I have great encouragement and support to delve deeper into programming studies and make the transition to the development area.
-- 🌱 I'm currently learning HTML/CSS and JS in Tera's Full Stack course. And I also continue to deepen my knowledge in Python and Java.
+- 🔭 I'm currently working in the backoffice of an RPA startup, where I have great incentive and support to delve into programming studies and achieve the desired transition to the development area.
+- 🌱 I'm currently learning HTML/CSS/JS (Node, React, MongoDB) in Tera's Full Stack course. And I also continue to deepen my knowledge in Python, OOP, project organization, API, database manipulation, Threads and automated tests.
 - 😄 Pronouns: she/Her
 
 
@@ -17,7 +17,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   
 </div>
 <br>
