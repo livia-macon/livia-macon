@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently working in the backoffice of an RPA startup, where I have great incentive and support to delve into programming studies and achieve the desired transition to the development area.
-- 🌱 I'm currently learning HTML/CSS/JS (Node, React, MongoDB) in Tera's Full Stack course. And I also continue to deepen my knowledge in Python, OOP, project organization, API, database manipulation, Threads and automated tests.
+- 🌱 I'm currently learning HTML/CSS/JS/ (Node, React, MongoDB, Flask) in Tera's Full Stack course. And I also continue to deepen my knowledge in Python, OOP, project organization, API, database manipulation, and automated tests.
 - 😄 Pronouns: she/Her
 
 
