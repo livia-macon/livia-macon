@@ -1,8 +1,8 @@
-### Hi there ! I'm Lívia, i started programming not long ago, but I'm already completely immersed and in love with this environment.
+### Hi there ! Welcome to my GitHub profile!
 
 
-- 🔭 I'm currently working in the backoffice of an RPA startup, where I have great incentive and support to delve into programming studies and achieve the desired transition to the development area.
-- 🌱 I'm currently learning HTML/CSS/JS/ (Node, React, MongoDB, Flask) in Tera's Full Stack course. And I also continue to deepen my knowledge in Python, OOP, project organization, API, database manipulation, and automated tests.
+- 🔭 I'm Livia, currently working as a jr software developer on BotCity.
+- ❤️ In love with Python, RPA, Process Automation, Web and Desktop Automation, Unit and Automated Testing
 - 😄 Pronouns: she/Her
 
 
