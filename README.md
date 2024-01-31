@@ -8,7 +8,7 @@
 
 <div align="left">
   <a href="https://github.com/livia-macon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livia-macon&include_all_commits=true&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livia-macon&include_all_commits=true&count_private=true&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage"/>
   </a>
   
   <div style="display: inline_block"><br>
