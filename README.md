@@ -1,7 +1,7 @@
 ### Hi there ! Welcome to my GitHub profile!
 
 
-- 🔭 I'm Livia, currently working as a jr software developer on BotCity.
+- 🔭 I'm Livia, currently working as Automation Experience on BotCity.
 - ❤️ In love with Python, RPA, Process Automation, Web and Desktop Automation, Unit and Automated Testing
 - 😄 Pronouns: she/Her
 
